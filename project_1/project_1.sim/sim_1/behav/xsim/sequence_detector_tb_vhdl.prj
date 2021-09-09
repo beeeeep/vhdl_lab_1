@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../unfiled_export/VHDL LAB 1/sequence_detector_template.vhd" \
+"../../../../unfiled_export/VHDL LAB 1/stimulus_generator.vhd" \
+"../../../../unfiled_export/VHDL LAB 1/sequence_detector_tb.vhd" \
+
+# Do not sort compile order
+nosort
